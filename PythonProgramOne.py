@@ -1,3 +1,7 @@
+# PythonProgramOne.py
+# Taylor Nii
+# CIT-95
+#
 # initialize variables
 user_name = None
 num1 = int(0)
